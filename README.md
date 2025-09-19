@@ -11,7 +11,7 @@ This project explores global **life expectancy** using health, social, and econo
 
 ## 📂 File Information
 
-- `README.md # Documentation
+- `README.md` # Documentation
 - `WorldLifeExpectancy.csv` # Dataset
 - `World_Life_Expectancy_SQL.ipynb` # Jupyter notebook with SQL analysis
 
