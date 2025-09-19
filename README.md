@@ -5,29 +5,19 @@
 ### Context
 This project explores global **life expectancy** using health, social, and economic indicators. Unlike past studies that relied on limited variables or single-year data, this dataset spans **2000–2015** and covers **193 countries**, including:  
 
-- 🧪 Immunization-related factors (Hepatitis B, Polio, Diphtheria)  
+- 🧪 Immunization-related factors (HIV/AIDS, Polio, Diphtheria)  
 - ⚰️ Mortality factors  
 - 💰 Economic factors  
 - 👥 Social factors  
 
-The goal is to identify predictors that strongly influence **life expectancy** and provide insights for governments and policymakers to improve public health.
-
-### Content
-- Source: **World Health Organization (WHO)** and **United Nations**  
-- Size: **2938 rows × 22 columns**  
-- Cleaned to remove countries with too many missing values (e.g., Vanuatu, Tonga, Cabo Verde)  
-- Target variable: **Life expectancy**  
-
 ---
 
-## 📂 File Information
+## 📂 Data Information
 
 - **WorldLifeExpectancy.csv** – Main dataset used for analysis  
   - Rows: **2938**  
   - Columns: **22**  
   - Target: `Life expectancy`
-
----
 
 ## 🗂️ Data Dictionary
 
