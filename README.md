@@ -1,8 +1,5 @@
 # World Life Expectancy Analysis (SQL Project)
 
-## 📊 About the Dataset
-
-### Context
 This project explores global **life expectancy** using health, social, and economic indicators. Unlike past studies that relied on limited variables or single-year data, this dataset spans **2000–2015** and covers **193 countries**, including:  
 
 - 🧪 Immunization-related factors (HIV/AIDS, Polio, Diphtheria)  
@@ -12,14 +9,19 @@ This project explores global **life expectancy** using health, social, and econo
 
 ---
 
-## 📂 Data Information
+## 📂 File Information
 
-- **WorldLifeExpectancy.csv** – Main dataset used for analysis  
-  - Rows: **2938**  
-  - Columns: **22**  
-  - Target: `Life expectancy`
+├── README.md # Documentation
+├── WorldLifeExpectancy.csv # Dataset
+└── World_Life_Expectancy_SQL.ipynb # Jupyter notebook with SQL analysis
 
-## 🗂️ Data Dictionary
+---
+
+## 🗂️ 📊 About the Dataset
+
+- Source: **World Health Organization (WHO)** and **United Nations**  
+- Size: **2938 rows × 22 columns**
+- Target variable: **Life expectancy** 
 
 | Column | Description |
 |--------|-------------|
@@ -41,15 +43,6 @@ This project explores global **life expectancy** using health, social, and econo
 | `thinness 5-9 years` | Prevalence of thinness (age 5–9, %) |
 | `Schooling` | Average years of schooling |
 | `GDP` | Gross Domestic Product per capita (in USD) |
-
----
-
-## 🛠️ Project Structure
-
-- `data/` – Dataset files  
-- `sql/` – SQL queries for analysis  
-- `notebooks/` – (Optional) Jupyter or R scripts for preprocessing  
-- `README.md` – Project documentation  
 
 ---
 
