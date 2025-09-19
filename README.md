@@ -50,5 +50,5 @@ This project explores global **life expectancy** using health, social, and econo
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/gianlucasposito/World-Life-Expectancy-Data-SQL.git
+   cd World-Life-Expectancy-Data-SQL
