@@ -46,6 +46,36 @@
 
 ---
 
+## 📂 Project Overview
+
+The project  is divided into three main stages:
+
+1. **Database Creation (SQLite)**
+
+2. **Data Cleaning**
+   - Standardized column names.
+   - Handled missing and null values.
+   - Removed duplicate records.
+   - Check any potential anomalies in the column values.
+
+3. **Data Analysis**
+   - Conducted exploratory queries in SQL.
+   - Examined life expectancy trends across countries.
+   - Analyzed relationships between life expectancy and:
+     - GDP  
+     - Scholarity  
+     - Status (Developed vs Developing countries)  
+     - Adult mortality  
+
+📊 Key Insights
+
+- 🌱 **Life expectancy increases with GDP**, showing strong positive correlations.  
+- 🌍 **Developed countries consistently report higher life expectancy** compared to developing nations.  
+- 💀 **Adult mortality is inversely correlated** with life expectancy, highlighting the importance of healthcare access.  
+- 📈 Global trend shows **steady improvement in life expectancy over the past decades**.  
+
+---
+
 ## 🚀 How to Use
 
 1. Clone this repository:  
