@@ -71,7 +71,8 @@ The project  is divided into three main stages:
 
 - 🌱 **Life expectancy increases with GDP**, showing strong positive correlations.  
 - 🌍 **Developed countries consistently report higher life expectancy** compared to developing nations.  
-- 💀 **Adult mortality is inversely correlated** with life expectancy, highlighting the importance of healthcare access.  
+- 💀 **Adult mortality is inversely correlated** with life expectancy, highlighting the importance of healthcare access.
+- 🎓 **Higher schooling years are strongly linked with longer life expectancy** — education plays a critical role in health outcomes.   
 - 📈 Global trend shows **steady improvement in life expectancy over the past decades**.  
 
 ---
