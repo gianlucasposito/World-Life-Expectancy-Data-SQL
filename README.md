@@ -1,6 +1,6 @@
 # World Life Expectancy Analysis (SQL Project)
 
-This project explores global **life expectancy** using health, social, and economic indicators. Unlike past studies that relied on limited variables or single-year data, this dataset spans **2000–2015** and covers **193 countries**, including:  
+ This project analyzes global **life expectancy** trends from 2000 to 2015, using health, social, and economic indicators across 193 countries, including:
 
 - 🧪 Immunization-related factors (HIV/AIDS, Polio, Diphtheria)  
 - ⚰️ Mortality factors  
@@ -20,7 +20,7 @@ This project explores global **life expectancy** using health, social, and econo
 ## 🗂️ 📊 About the Dataset
 
 - Source: **World Health Organization (WHO)** and **United Nations**  
-- Size: **2938 rows × 22 columns**
+- Size: **2941 rows × 18 columns**
 - Target variable: **Life expectancy** 
 
 | Column | Description |
